@@ -33,3 +33,10 @@
     border:none;
     background: #E55473;
 }
+/* banner logo */
+.banner-img{
+    margin-top:5vh;
+    width:550px;
+    height:95vh;
+
+}
