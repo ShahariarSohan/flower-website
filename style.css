@@ -1,13 +1,35 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Lato;
 }
+
 /* banner section */
-.banner-container{
-    height:100vh;
-    background-color:rgba(229, 84, 115, 0.10) ;
-    display:flex;
+.banner-container {
+    height: 100vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
     justify-content: space-around;
     align-items: center;
-    
+}
+
+/* banner info */
+.banner-title {
+    color: #272727;
+    font-size: 55px;
+}
+
+.banner-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.btn-primary {
+    color:#FFF;
+    width:130px;
+    height:40px;
+    border-radius: 5px;
+    border:none;
+    background: #E55473;
 }
