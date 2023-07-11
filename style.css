@@ -70,7 +70,7 @@
 .flower-box {
     width: 300px;
     height: 400px;
-    position:relative;
+    position: relative;
 }
 
 #box1 {
@@ -87,17 +87,39 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
+
 .flower-img {
     width: 230px;
     height: 300px;
-    margin:100px 30px 0 30px;
-    
+    margin: 100px 30px 0 30px;
+
 }
-.flower-name{
-    display:flex;
+
+.flower-name {
+    display: flex;
     justify-content: space-around;
 }
-.flower-name a{
-    color:#000;
+
+.flower-name a {
+    color: #000;
     font-size: 18px;
+    margin-bottom:100px;
+}
+
+/* service section */
+.service-container {
+    width:87%;
+    height:300px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin:auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.service-img{
+    margin-left:80px;
+}
+#service-img3{
+    margin-left:30px;
 }
