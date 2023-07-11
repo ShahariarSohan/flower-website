@@ -146,6 +146,30 @@
     width:250px;
     height:300px;
 }
+/* flowerblog section */
+.flowerblog-container{
+    width:87%;
+    height:800px;
+    background-color: rgba(229, 84, 115, 0.10);
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom:100px;
+}
+.blog-title{
+    color: #272727;
+    font-size: 55px;
+    text-align: center;
+    padding-top:50px;
+}
+.blog-title2{
+    text-align:center;
+}
+.blog-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: justify;
+    font-size: 18px;
+    padding:20px 80px;
+}
 /* subscribe section */
 .subscribe-container{
     width:87%;
