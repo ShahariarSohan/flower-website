@@ -107,7 +107,7 @@
 
 /* service section */
 .service-container {
-    width:87%;
+    width: 87%;
     height:300px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -152,6 +152,7 @@
     width:87%;
     height:400px;
     background-image: url("Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
     border-radius: 8px;
     margin: auto;
 }
