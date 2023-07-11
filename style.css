@@ -22,7 +22,7 @@
     color: #FFF;
     font-size: 14px;
     width: 130px;
-    height: 40px;
+    height: 50px;
     border-radius: 5px;
     border: none;
     background: #E55473;
@@ -146,4 +146,24 @@
 .instaflower-img{
     width:250px;
     height:300px;
+}
+/* subscribe section */
+.subscribe-container{
+    width:87%;
+    height:400px;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    border-radius: 8px;
+    margin: auto;
+}
+.subscribe-area{
+    margin-top:30px;
+    text-align: center;
+   
+}
+.subscribe-area input{
+    padding:10px 0 10px 20px;
+    width:500px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
 }
