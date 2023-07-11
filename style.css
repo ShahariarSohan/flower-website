@@ -196,8 +196,12 @@
 }
 .subscribe-area{
     margin-top:30px;
-    text-align: center;
-   
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.email-area{
+    margin-right:15px;
 }
 .subscribe-area input{
     padding:10px 0 10px 20px;
