@@ -58,9 +58,14 @@
 }
 
 /* featured flower section */
+.featuredflower-container{
+    width:1210px;
+    margin:auto;
+}
 .featuredflower-box {
+    
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin: 50px 0 30px 0;
 }
@@ -136,10 +141,12 @@
 }
 /* instagram section */
 .instagram-flower{
-    margin: 50px 0 100px 0;
+    width:1210px;
+    margin:auto;
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
+    margin-top:50px;
 
 }
 .instaflower-img{
@@ -154,8 +161,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 8px;
-    margin: auto;
-    margin-bottom:100px;
+    margin:  100px auto;
+  
 }
 .flower-icon{
     width:50px;
