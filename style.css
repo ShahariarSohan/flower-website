@@ -106,7 +106,7 @@
 
 /* service section */
 .service-container {
-    width: 87%;
+    width:1210px;
     height:300px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -148,7 +148,7 @@
 }
 /* flowerblog section */
 .flowerblog-container{
-    width:87%;
+    width:1210px;
     height:800px;
     background-image: url("Flower Asset/blog.jpg");
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@
 }
 /* subscribe section */
 .subscribe-container{
-    width:87%;
+    width:1210px;
     height:400px;
     background-image: url("Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
