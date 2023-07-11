@@ -4,6 +4,21 @@
     font-family: Lato;
 }
 
+/* shared  */
+.primary-title {
+    color: #272727;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 100px;
+}
+
+.primary-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top:20px;
+}
+
 /* banner section */
 .banner-container {
     height: 100vh;
@@ -17,6 +32,7 @@
 .banner-title {
     color: #272727;
     font-size: 55px;
+
 }
 
 .banner-paragraph {
@@ -26,17 +42,18 @@
 }
 
 .btn-primary {
-    color:#FFF;
-    width:130px;
-    height:40px;
+    color: #FFF;
+    width: 130px;
+    height: 40px;
     border-radius: 5px;
-    border:none;
+    border: none;
     background: #E55473;
 }
+
 /* banner logo */
-.banner-img{
-    margin-top:5vh;
-    width:35vw;
-    height:95vh;
+.banner-img {
+    margin-top: 5vh;
+    width: 35vw;
+    height: 95vh;
 
 }
